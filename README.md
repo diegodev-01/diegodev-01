@@ -1,15 +1,12 @@
-<div align="center">
-  <h1 align="center"> Hi, I'm Diego! 👋🏽 </h1>
-</div>
-
+<h1 align="center"> Hi, I'm Diego! 👋🏽 </h1>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=diegodev-01&theme=react&hide_border=false"  alt="Diego's GitHub streak" style="border:none"/>
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=diegodev-01&  hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&  count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false"  height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=diegodev-01&  locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=false" height="150" alt="languages graph"  />
-  </div>
-</p>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=diegodev-01&theme=react&hide_border=false" height="150" />
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=diegodev-01&theme=react&hide_border=false&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegodev-01&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" />
+  </p>
+  </p>
 
 ---
 
