@@ -26,6 +26,7 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 ![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=white&style=for-the-badge)
 ![Yarn](https://img.shields.io/badge/YARN-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge)
+![i18n](https://img.shields.io/badge/i18n-007ACC?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ### Frontend Stack
 
@@ -58,7 +59,6 @@
 ![Inkscape](https://img.shields.io/badge/INKSCAPE-000000?logo=inkscape&logoColor=white&style=for-the-badge)
 ![Photoshop](https://img.shields.io/badge/PHOTOSHOP-31A8FF?logo=adobe-photoshop&logoColor=white&style=for-the-badge)
 ![Penpot](https://img.shields.io/badge/PENPOT-FF5E00?logo=penpot&logoColor=white&style=for-the-badge)
-![i18n](https://img.shields.io/badge/i18n-007ACC?style=for-the-badge&logo=googletranslate&logoColor=white)
 
 ### Backend Stack
 
